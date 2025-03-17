@@ -51,7 +51,7 @@ npm install
 <p>3. Start the Backend Server (Python):</p>
 
 ```
-python app.py
+python main4.py
 ```
 
 <p>4. Start the Frontend Server (Next.js):</p>
