@@ -70,6 +70,7 @@ Technologies used in the project:
 *   Scikit-learn (for machine learning models)
 *   Axios (for API calls)
 *   React
+*   shadcnUI
 
 <h2>💖 Like my work?</h2>
 
